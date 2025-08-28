@@ -30,3 +30,4 @@ python .\scrape_youtube_hashtag.py "#python"
 ### Notes
 - YouTube UI may change; if parsing fails, adjust logic in `parse_videos`.
 - Respect YouTube’s Terms. Avoid high request rates. Consider official APIs for production.
+# youtube-web-scraper
